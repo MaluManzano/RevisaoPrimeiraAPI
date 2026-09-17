@@ -1,0 +1,24 @@
+{
+  "name": "revisaoprimeiraapi",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000v\u0000i\u0000s\u0000a\u0000o\u0000P\u0000r\u0000i\u0000m\u0000e\u0000i\u0000r\u0000a\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaluManzano/RevisaoPrimeiraAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MaluManzano/RevisaoPrimeiraAPI/issues"
+  },
+  "homepage": "https://github.com/MaluManzano/RevisaoPrimeiraAPI#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
