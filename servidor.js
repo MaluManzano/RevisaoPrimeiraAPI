@@ -13,7 +13,10 @@ app.get("/",(req,res) =>{
 res.json({
 message:"API Alunos funcionando"
   })
-})
+});
+app.get("/alunos", (req, res)=>{
+    res.json(ALUNOS);
+});
 const PORTA = 3000;
 app.listen(PORTA, ()=>{
     console.log("Servidor inicado com sucesso");
